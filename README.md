@@ -46,18 +46,13 @@ To see how you can add code snippets, see below:
 <h1>Some HTML code I'm proud of</h1>
 ```
 
-<<<<<<< HEAD
-
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 }
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
@@ -80,7 +75,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jhonmicc)
+- Frontend Mentor - [@jhonmicc](https://www.frontendmentor.io/profile/jhonmicc)
 - Twitter - [@stilllearncode](https://twitter.com/stilllearncode)
 
 ## Acknowledgments
