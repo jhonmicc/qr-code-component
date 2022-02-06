@@ -74,7 +74,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@jhonmicc](https://www.frontendmentor.io/profile/jhonmicc)
 - Twitter - [@stilllearncode](https://twitter.com/stilllearncode)
 
